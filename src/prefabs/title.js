@@ -37,6 +37,12 @@
           },
         },
         {
+          type: 'COLOR',
+          label: 'Text Color',
+          key: 'textColor',
+          value: 'Black',
+        },
+        {
           value: ['0rem', '0rem', '0rem', '0rem'],
           label: 'Outer space',
           key: 'outerSpacing',
